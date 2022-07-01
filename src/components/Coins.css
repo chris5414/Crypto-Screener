@@ -1,0 +1,36 @@
+.heading {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(57, 57, 178);
+  align-items: center;
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.coin-row {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(59, 50, 50, 0.516);
+  box-shadow: 0px 0px 10px;
+  margin: 10px;
+  padding: 10px 10px 10px 10px;
+  align-items: center;
+}
+
+.coin-row:hover {
+  transform: scale(1.03);
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+img {
+  height: 40px;
+  margin-right: 8px;
+}
+
+.img-symbol {
+  display: flex;
+  align-items: center;
+  padding-left: 1px;
+}

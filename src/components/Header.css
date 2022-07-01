@@ -1,0 +1,13 @@
+.icon {
+  margin-top: 20px;
+  font-size: 100px;
+  color: rgb(200, 200, 44);
+}
+
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 22px;
+  color: rgb(122, 227, 220);
+}
