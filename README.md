@@ -39,7 +39,9 @@ Certainly there are plenty of rooms for improvements, and these are the followin
 
 4. Includes Fav feature for users to add coins for better user experience. 
 
-5. Back button to be included so that users do not need to use browser back & refresh functions. 
+5. Back button to be included so that users do not need to use browser back & refresh functions.
+
+6. Includes the display of chart for each individual coin.
 
 
 
