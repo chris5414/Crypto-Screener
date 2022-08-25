@@ -34,3 +34,42 @@ img {
   align-items: center;
   padding-left: 1px;
 }
+
+.coin-symbol {
+  width: 0px;
+}
+
+.coin-name {
+  width: 30px;
+  font-weight: bold;
+}
+
+.coin-price {
+  width: 60px;
+  color: rgb(166, 184, 35);
+  font-weight: bold;
+}
+
+.coin-change {
+  width: 50px;
+  font-weight: bold;
+}
+
+.coin-volume {
+  width: 100px;
+  color: rgb(219, 73, 219);
+  font-weight: bold;
+}
+
+.coin-cap {
+  width: 140px;
+  font-weight: bold;
+}
+
+.red {
+  color: rgb(175, 37, 37);
+}
+
+.green {
+  color: rgb(21, 163, 33);
+}
