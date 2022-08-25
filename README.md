@@ -1,10 +1,15 @@
 # Crypto-Screener
 
+![Screenshot 2022-08-25 at 5 26 44 PM](https://user-images.githubusercontent.com/85674752/186629624-598fe323-d445-4b6c-975b-66a2950aa91a.png)
+
 Simple Crypto React app which screens a list of 30 top ranked coins with live updates.
 
 You can also search for the coins right away, it will filter out the list as you type.
 
 All the coins shown are clickable links, you can click them to get more detailed information on the individual coin.
+
+![Screenshot 2022-08-25 at 5 28 36 PM](https://user-images.githubusercontent.com/85674752/186629672-03218e02-b298-48bf-b313-e3560c428cac.png)
+
 
 # Technology Used
 Using React-Router-Dom v6.2 to create Routes for the pages, Gecko API to generate the live data of the coins, and Axios to fetch the data.
@@ -39,9 +44,7 @@ Certainly there are plenty of rooms for improvements, and these are the followin
 
 4. Includes Fav feature for users to add coins for better user experience. 
 
-5. Back button to be included so that users do not need to use browser back & refresh functions.
-
-6. Includes the display of chart for each individual coin.
+5. Includes the display of chart for each individual coin.
 
 
 
